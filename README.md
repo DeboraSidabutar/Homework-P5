@@ -1,10 +1,10 @@
-# 📚 Digital Skola — Homework Repository
+﻿# 📚 Digital Skola Bootcamp — Homework Repository
 
-Welcome to my **Digital Skola Bootcamp Homework Repository!** 👋
+Welcome to my Digital Skola Bootcamp repository! 👋
 
-This repository contains my assignments from the bootcamp sessions, organized into separate Git branches for easy navigation and submission.
+This repository contains my assignments and learning progress throughout the bootcamp. Each session has its own Git branch to keep assignments organized.
 
-## 📂 Repository Structure
+## 📂 Branch Structure
 
 | Branch | Description |
 |---|---|
@@ -13,21 +13,21 @@ This repository contains my assignments from the bootcamp sessions, organized in
 | `tugas/sesi3` | Session 3 assignments |
 | `tugas/sesi4` | Session 4 assignments |
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools Used
 
-- **Git** — Version control
-- **GitHub** — Repository hosting and collaboration
-- **Visual Studio Code** — Code editor
+- Git for version control
+- GitHub for repository hosting
+- Visual Studio Code for editing and development
 
-## 🎯 Learning Goals
+## 🎯 Learning Objectives
 
-- Practice Git fundamentals and branch management.
-- Organize assignments using a structured repository.
-- Build good habits in version control and documentation.
-- Track learning progress throughout the bootcamp.
+- Understand Git and GitHub fundamentals.
+- Practice creating and managing branches.
+- Organize and submit assignments systematically.
+- Develop good version control habits.
 
-## 👩‍💻 About This Repository
+## 👩‍💻 About
 
-Created as part of my learning journey at **Digital Skola**.
+Created as part of my learning journey at **Digital Skola Bootcamp**.
 
-Thank you for visiting! ✨
+Thanks for visiting! ✨
